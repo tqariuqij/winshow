@@ -1,0 +1,8 @@
+export { default as AboutCard } from './AboutCard'
+export { default as ChoiceSection } from './ChoiceSection'
+export { default as Navbar } from './Navbar'
+export { default as PeopleSection } from './PeopleSection'
+export { default as ProductSection } from './ProductSection'
+export { default as Footer } from './Footer'
+export { default as ImageCarousel } from './ImageCarousel'
+export { default as Layout } from './Layout'
